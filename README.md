@@ -1,5 +1,6 @@
 
 # Vue keyboard accessible modal
+<p><img src="https://github.com/raficse15032/vue-keyboard-accessible-modal2/blob/main/ezgif.com-gif-maker.gif" align="right" height="300" width="500" /></p>
 
 The modal is fully customizeable and easy to use.
 
